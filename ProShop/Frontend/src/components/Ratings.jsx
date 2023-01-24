@@ -33,8 +33,5 @@ function Ratings({ ratings, text, color }) {
 Ratings.defaultProps = {
     color:'gold',
 }
-Ratings.propTypes ={
-    value: propTypes.number.isRequired,
-    text:propTypes.string.isRequired
-}
+
 export default Ratings
