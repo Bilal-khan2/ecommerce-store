@@ -1,6 +1,6 @@
 import React from 'react'
 import { Card } from 'react-bootstrap'
-import products from '../products'
+// import products from '../products'
 
 function Products({ product }) {
     return (
